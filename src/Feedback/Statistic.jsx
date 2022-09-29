@@ -1,4 +1,3 @@
-
 import PropTypes from 'prop-types';
 
 export default function Statistic({good, neutral, bad, total, totalPercent}) {
